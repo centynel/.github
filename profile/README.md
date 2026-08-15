@@ -8,15 +8,6 @@
 
   Our platform processes physical-world signals on-site and enables organizations to add modular AI capabilities without replacing their existing infrastructure.
 
-  ## What we are building
-
-  - Local processing for cameras and physical sensors
-  - Modular Edge AI capabilities deployed on demand
-  - Structured, real-time operational events
-  - Secure management of distributed node fleets
-  - Privacy-conscious infrastructure designed for Europe
-
-  Centynel is currently under active development. Our core platform and production repositories remain private while we build and validate the first integrated deployments.
 
   ## Learn more
 
