@@ -1,6 +1,11 @@
 <p align="center">
-    <img src="./centy.png" alt="Centynel — Real-time intelligence for the physical world" width="100%">
+    <img
+      src="./centynel-edge-intelligence-banner.png"
+      alt="Centynel — Real-time edge intelligence for cameras and sensors"
+      width="100%"
+    >
   </p>
+
   
   Centynel transforms existing cameras and sensors into useful, real-time intelligence through local edge nodes.
 
