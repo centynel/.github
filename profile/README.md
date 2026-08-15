@@ -1,85 +1,32 @@
-<div align="center">
-  <img src="./astralog-logo.png" alt="AstraLog Logo" width="500">
+<p align="center">
+    <img src="./cen.png" alt="Centynel — Real-time intelligence for the physical world" width="100%">
+  </p>
 
-### Logging infrastructure for modern applications.
+  # Centynel
 
-Add searchable logs to your application in minutes.
+  Centynel transforms existing cameras and sensors into useful, real-time intelligence through local edge nodes.
 
-</div>
+  Our platform processes physical-world signals on-site and enables organizations to add modular AI capabilities without replacing their existing infrastructure.
 
----
+  ## What we are building
 
-## Stop building logging systems.
+  - Local processing for cameras and physical sensors
+  - Modular Edge AI capabilities deployed on demand
+  - Structured, real-time operational events
+  - Secure management of distributed node fleets
+  - Privacy-conscious infrastructure designed for Europe
 
-Applications generate logs.
+  Centynel is currently under active development. Our core platform and production repositories remain private while we build and validate the first integrated deployments.
 
-Developers shouldn't have to build the infrastructure behind them.
+  ## Learn more
 
-AstraLog provides everything needed to collect, store and search logs without managing ingestion pipelines, storage systems or search infrastructure.
+  - [Website](https://centynel.tech)
+  - [Insights](https://centynel.tech/insights)
+  - [Book a demo](https://centynel.tech/demo)
+  - [X](https://x.com/CentynelTech)
 
----
+  ## Contact
 
-## Built for modern applications
+  For partnerships, deployments and general enquiries:
 
-AstraLog works across modern workloads including:
-
-* APIs
-* Serverless functions
-* Edge runtimes
-* Background jobs
-* Containers
-* Microservices
-* AI applications
-
-One ingestion API.
-
-One place to search your logs.
-
----
-
-## Common use cases
-
-### Customer activity logs
-
-Track actions across your application and understand what happened when it matters most.
-
-### Audit trails
-
-Record important events with structured metadata for security, compliance and operational visibility.
-
-### AI application logs
-
-Capture prompts, tool executions and agent activity with searchable context.
-
-### API request logs
-
-Search requests, responses and failures across services and environments.
-
----
-
-## Your logs. Your storage.
-
-Bring your own storage or let AstraLog manage everything.
-
-Supports AWS S3, Cloudflare R2 and S3-compatible storage providers.
-
----
-
-## Open Source
-
-The AstraLog platform is proprietary.
-
-This GitHub organization contains:
-
-* SDKs
-* Documentation
-* Examples
-* Integrations
-
----
-
-<div align="center">
-
-**Build your product. We'll handle the logs.**
-
-</div>
+  [hello@centynel.tech](mailto:hello@centynel.tech)
